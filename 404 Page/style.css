@@ -1,0 +1,53 @@
+*{
+  font-family: 'Poppins', sans-serif;
+  overflow: hidden;
+  color: #fff;
+}
+
+.header {
+  padding: -10px;
+  margin: -8px;
+  min-height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(94, 14, 14, 0.7),rgba(78, 17, 12, 0.7)) , url("images/banner.jpg");
+  background-position: auto;
+  background-size: cover;
+  position: absolute;
+}
+
+.Page{
+  margin-top: 15%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 15%;
+  border-radius: 20px;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  margin: 0;
+  width: 100%;
+  padding: 0;
+  text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+}
+
+h3 {
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  width: 100%;
+  padding: 0;
+  text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+}
+
+p {
+  font-size: small;
+  text-align: center;
+  margin: 0;
+  width: 100%;
+  size: 100%;
+  padding: 10px;
+  text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+
+}
